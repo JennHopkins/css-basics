@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <meta charset="utf-8">
+     <tile>Awesome CSS Page</tile>
+
+  </head>
+
+
+
+  <body>
+     <h1> Welcome to CSS, Honored Guest</h1>
+     <p>I bet you think this is just your grandma's CSS page, huh? Well, here's how you're wrong.</p>
+       <ul>
+         <li>
+           <a href="#"> Home </a>
+         <li>
+         <p>Haunted House</p>
+         <img src="https://farm6.staticflickr.com/5725/22591401292_0d361e1b0c_b.jpg" width="400" alt="Cartoonish Haunted House at night labelled the Cozy Coffin Motel.">
+          <cite>by kevin dooley is licensed under CC BY 2.0</cite>
+         <p>Don't be scared!</p>
+         </li>
+
+          <li>
+            <p>A serene mountain</p>
+            <img src="images/mountain-pic.jpg" width="400" alt="moutain scene in front of a river.">
+            <p>Go to your happy place.</p>
+         </li>
+
+  </body>
+
+</html>
